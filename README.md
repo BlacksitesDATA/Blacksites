@@ -7,12 +7,12 @@ Default projection EPSG 3112 - GDA94 / Geoscience Australia Lambert
 
 Relevant Data Fields:
 
-**Name:** Name of infrastructure, where applicable
-**Use:** Key function, where known
-**Year in / Year out:** Year constructed, and year removed/demolished
-**Capacity:** Reported maximum capacity, where known
-**Type:** Type of structure or general use
-**Security level:** Low/Medium/High
-**Date in / Date out:** Specific date where construction/demolition is known
-**Location:** General location
-**Contractor:** Primary construction contractor, when known
+- **Name:** Name of infrastructure, where applicable
+- **Use:** Key function, where known
+- **Year in / Year out:** Year constructed, and year removed/demolished
+- **Capacity:** Reported maximum capacity, where known
+- **Type:** Type of structure or general use
+- **Security level:** Low/Medium/High
+- **Date in / Date out:** Specific date where construction/demolition is known
+- **Location:** General location
+- **Contractor:** Primary construction contractor, when known
